@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environments
+.env
+.env.*
+.venv/
+env/
+venv/
+ENV/
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+
+# Data and models
+data/
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.ckpt
+*.h5
+*.pth
+*.pt
+*.bin
+*.onnx
+runs/
+output/
+outputs/
+checkpoints/
+results/
+models/
+
+# Hugging Face and datasets
+.cache/
+huggingface/
+datasets/
+~/.cache/huggingface/
+~/.huggingface/
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+*.bak
+
+# IPython/Jupyter
+.history
+~/.local/share/jupyter/runtime/
