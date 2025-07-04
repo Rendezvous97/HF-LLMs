@@ -55,3 +55,6 @@ datasets/
 # IPython/Jupyter
 .history
 ~/.local/share/jupyter/runtime/
+
+# Deployment Frameworks
+llama.cpp/
